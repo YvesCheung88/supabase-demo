@@ -1,4 +1,3 @@
-<!-- src/routes/auth/signup.svelte -->
 <script lang="ts">
     import { supabase } from '$lib/supabase';
     import { goto } from '$app/navigation';
