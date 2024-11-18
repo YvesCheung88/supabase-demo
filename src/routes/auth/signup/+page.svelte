@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<!-- src/routes/auth/signup.svelte -->
+>>>>>>> 4151d8d8c88023c87990f9e7e269ba293e9b72dc
 <script lang="ts">
     import { supabase } from '$lib/supabase';
     import { goto } from '$app/navigation';
